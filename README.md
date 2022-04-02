@@ -1,5 +1,6 @@
 # Frontend Mentor - NFT preview card component
-
+# check Out
+ https://sandeep-0701.github.io/nft-preview-card/
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
